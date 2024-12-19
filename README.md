@@ -1,2 +1,2 @@
 # the-beatles-blog
-Blog criadoo para demonstração de conhecimentos em semântica no HTML
+Blog criado para demonstração de conhecimentos em semântica no HTML
